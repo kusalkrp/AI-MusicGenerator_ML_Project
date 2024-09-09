@@ -20,3 +20,13 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+
+# Data folder
+/data/
+
+# model folder
+/models/
+
+# output folder
+/output/
+LJSpeech-1.1.tar.zip

@@ -22,11 +22,11 @@ rad.json
 TestResults.xml
 
 # Data folder
-/data/
+/data/*
 
 # model folder
-/models/
+/models/*
 
 # output folder
-/output/
+/output/*
 LJSpeech-1.1.tar.zip
